@@ -1,0 +1,25 @@
+name: Convert raw SVGs
+
+on: [push]
+
+jobs:
+  convert:
+    runs-on: ubuntu-latest
+    container: alpine
+    steps:
+      - uses: actions/checkout@v1
+      - run: apk -q add inkscape ttf-dejavu git
+      - run: ./convert.sh
+      - uses: actions/upload-artifact@v2
+        with:
+          name: icons
+          path: |
+            png/auto-convert
+            svg/outlined
+      - run: mkdir publish
+      - run: cp -r png svg index.html publish/
+      - name: Deploy as website
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: publish
