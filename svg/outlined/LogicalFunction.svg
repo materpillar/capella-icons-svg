@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="100"
+   height="64"
+   viewBox="0 0 26.458333 16.933333"
+   version="1.1"
+   id="svg8"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <defs
+     id="defs2">
+    <linearGradient
+       id="gradient">
+      <stop
+         style="stop-color:#67bc53;stop-opacity:1"
+         offset="0"
+         id="stop1001" />
+      <stop
+         style="stop-color:#e3f2e0;stop-opacity:1"
+         offset="0.91565436"
+         id="stop1009" />
+      <stop
+         style="stop-color:#fffdfb;stop-opacity:1"
+         offset="1"
+         id="stop1003" />
+    </linearGradient>
+    <linearGradient
+       xlink:href="#gradient"
+       id="linearGradient1007"
+       x1="39.687498"
+       y1="33.866665"
+       x2="66.145831"
+       y2="33.866665"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     transform="translate(-39.687498,-25.399999)">
+    <path
+       stroke="#563b18"
+       stroke-width="0.252653"
+       d="m 65.947394,33.867082 c 0,4.566219 -5.833884,8.267813 -13.030093,8.267813 -7.197908,0 -13.031366,-3.703261 -13.031366,-8.267813 0,-4.567051 5.833458,-8.268646 13.031366,-8.268646 7.196635,-4.26e-4 13.030093,3.700763 13.030093,8.268646 z"
+       id="path37"
+       style="fill:url(#linearGradient1007);fill-opacity:1;stroke:#000000;stroke-width:0.397;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <g
+       aria-label="LF"
+       transform="scale(1.1952286,0.83666003)"
+       id="text851"
+       style="font-weight:bold;font-size:44.2733px;line-height:1.25;-inkscape-font-specification:'sans-serif Bold';stroke-width:0.221366">
+      <path
+         d="m 38.361526,36.712956 h 1.941994 v 6.063057 h 3.409839 v 1.467845 h -5.351833 z"
+         style="font-size:10.3304px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans Bold'"
+         id="path15" />
+      <path
+         d="m 44.944129,36.712956 h 5.240863 v 1.467845 h -3.298868 v 1.402271 h 3.102146 v 1.467845 h -3.102146 v 3.192941 h -1.941995 z"
+         style="font-size:10.3304px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans Bold'"
+         id="path17" />
+    </g>
+  </g>
+</svg>
