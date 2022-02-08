@@ -71,6 +71,9 @@ Font: DejaVu Sans, Bold, 35pt then transform height to 70%, RGB: 000000ff
 | Grad color center | fdfcfaff        | fdfcfaff        | fdfcfaff        | fdfcfaff        |
 | Grad color edge   | d0ab84ff        | d0ab84ff        | d0ab84ff        | d0ab84ff        |
 
+FunctionalChain uses the same properties for Stroke and Fill, but the dimensions have been adapted.
+The FunctionalChain.svg is 64px x 95px
+
 Font not transformed for:
 
 |                      | OA                   | SF, LF, PF           |
