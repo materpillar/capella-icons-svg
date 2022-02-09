@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="75"
+   height="75"
+   viewBox="0 0 19.84375 19.84375"
+   version="1.1"
+   id="svg61685"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   sodipodi:docname="Requirement.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview61687"
+     pagecolor="#505050"
+     bordercolor="#ffffff"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="true"
+     inkscape:document-units="mm"
+     showgrid="false"
+     width="75px"
+     units="px"
+     inkscape:zoom="2.1112071"
+     inkscape:cx="29.367086"
+     inkscape:cy="113.44221"
+     inkscape:window-width="1852"
+     inkscape:window-height="1016"
+     inkscape:window-x="68"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs61682" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <circle
+       style="fill:#750075;fill-opacity:1;stroke:none;stroke-width:0.386098;stroke-linecap:butt;stroke-linejoin:miter;paint-order:markers fill stroke"
+       id="path61791"
+       cx="9.921875"
+       cy="9.921875"
+       r="9.7288256" />
+    <text
+       xml:space="preserve"
+       style="font-size:19.4428px;line-height:1.25;font-family:sans-serif;stroke-width:0.324047"
+       x="2.0685084"
+       y="19.092846"
+       id="text64843"
+       transform="scale(1.2247449,0.81649657)"><tspan
+         sodipodi:role="line"
+         id="tspan64841"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.4428px;font-family:'Noto Sans Mono';-inkscape-font-specification:'Noto Sans Mono Bold';fill:#ffffff;fill-opacity:1;stroke-width:0.324047"
+         x="2.0685084"
+         y="19.092846">R</tspan></text>
+  </g>
+</svg>

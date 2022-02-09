@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="82.000053"
+   height="100"
+   viewBox="0 0 21.695847 26.458334"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   sodipodi:docname="RequirementsModule.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="1"
+     inkscape:pagecheckerboard="false"
+     inkscape:document-units="mm"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     units="px"
+     inkscape:zoom="2.1695333"
+     inkscape:cx="12.906002"
+     inkscape:cy="118.68912"
+     inkscape:window-width="1852"
+     inkscape:window-height="1016"
+     inkscape:window-x="68"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2">
+    <marker
+       style="overflow:visible"
+       id="Arrow1Lend"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path6347" />
+    </marker>
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-131.08613,-53.45176)">
+    <g
+       id="g61619">
+      <g
+         id="g61570-4"
+         transform="translate(2.6458383,3.7041657)">
+        <path
+           style="fill:#ffffff;stroke:#aa8800;stroke-width:1.74097px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 144.07295,54.322245 5.19271,5.253299 V 75.335442 H 131.95662 V 54.322245 Z"
+           id="path5985-8"
+           sodipodi:nodetypes="cccccc" />
+        <path
+           style="fill:#aa8800;stroke:#aa8800;stroke-width:1.81429px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;paint-order:markers fill stroke"
+           d="m 144.29453,54.33042 v 5.442859 h 5.44286"
+           id="path5987-1"
+           sodipodi:nodetypes="ccc" />
+      </g>
+      <g
+         id="g61570">
+        <path
+           style="fill:#ffffff;stroke:#aa8800;stroke-width:1.74097px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 144.07295,54.322245 5.19271,5.253299 V 75.335442 H 131.95662 V 54.322245 Z"
+           id="path5985"
+           sodipodi:nodetypes="cccccc" />
+        <path
+           style="fill:#aa8800;stroke:#aa8800;stroke-width:1.81429px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;paint-order:markers fill stroke"
+           d="m 144.29453,54.33042 v 5.442859 h 5.44286"
+           id="path5987"
+           sodipodi:nodetypes="ccc" />
+      </g>
+      <text
+         xml:space="preserve"
+         style="font-size:21.6032px;line-height:1.25;font-family:sans-serif;fill:#750075;fill-opacity:1;stroke-width:0.324047"
+         x="108.03018"
+         y="90.073685"
+         id="text56992"
+         transform="scale(1.2247449,0.81649657)"><tspan
+           sodipodi:role="line"
+           id="tspan56990"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:21.6032px;font-family:'Noto Sans Mono';-inkscape-font-specification:'Noto Sans Mono Bold';fill:#750075;fill-opacity:1;stroke-width:0.324047"
+           x="108.03018"
+           y="90.073685">R</tspan></text>
+    </g>
+  </g>
+</svg>

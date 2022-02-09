@@ -98,10 +98,20 @@ Font not transformed for:
 | Fill                     | a2b5c3ff | bdf7ffff   | a2b5c3ff | e3ebf8ff | a2b5c3ff     | fff426   |
 | Fill color small squares | e3ebf8ff | e3ebf8ff   | a2b5c3ff | e3ebf8ff | a2b5c3ff     | fff426   |
 
-|                          | ...Pkg       |
-| ------------------------ | -------- |
-| Width                    | 75px    |
-| Height                   | 50px     |
+|        | ...Pkg |
+| ------ | ------ |
+| Width  | 75px   |
+| Height | 50px   |
 
 **Size** The size of reworked icons has been adjusted to result in round values,
 and preferably exponents of 2.
+
+|                     | RequirementsModule         | Requirement                |
+| ------------------- | -------------------------- | -------------------------- |
+| Width               | 100px                      | 75px                       |
+| Height              | 82px                       | 75px                       |
+| Stroke Color        | aa8800ff                   | no stroke                  |
+| Fill Color          | ffffff                     | 750075ff                   |
+| Font                | Noto Sans Mono Bold, 50 pt | Noto Sans Mono Bold, 40 pt |
+| Font Transformation | Width = 150%               | Width = 150%               |
+| Font Color          | 750075ff                   | ffffff                     |
