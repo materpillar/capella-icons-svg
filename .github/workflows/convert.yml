@@ -8,7 +8,7 @@ jobs:
     container: alpine
     steps:
       - uses: actions/checkout@v1
-      - run: apk -q add inkscape ttf-dejavu git
+      - run: apk -q add git inkscape ttf-dejavu font-noto
       - run: ./convert.sh
       - uses: actions/upload-artifact@v2
         with:
