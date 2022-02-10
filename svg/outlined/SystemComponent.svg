@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="100"
+   height="65"
+   viewBox="0 0 26.458333 17.197917"
+   version="1.1"
+   id="svg8"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <defs
+     id="defs2" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     transform="translate(-110.97381,-79.008289)">
+    <g
+       id="g15572">
+      <path
+         id="rect847"
+         style="fill:#e3ebf8;stroke:#000000;stroke-width:0.400079"
+         d="M 113.81968,79.208328 H 137.2321 V 96.006166 H 113.81968 Z" />
+      <path
+         id="rect849"
+         style="fill:#e3ebf8;stroke:#000000;stroke-width:0.40837"
+         d="m 111.178,81.674644 h 6.20621 v 3.031214 H 111.178 Z" />
+      <path
+         id="rect849-9"
+         style="fill:#e3ebf8;stroke:#000000;stroke-width:0.40837"
+         d="m 111.17799,85.680176 h 6.20622 v 3.031213 h -6.20622 z" />
+      <g
+         id="g1306"
+         transform="matrix(1.3061437,0,0,1.3061437,-13.976349,-2.0831833)">
+        <path
+           id="rect1198"
+           style="fill:none;stroke:#333333;stroke-width:0.381728;paint-order:markers fill stroke"
+           d="m 105.89791,65.853462 h 6.48888 V 72.0167 h -6.48888 z" />
+        <path
+           id="rect929"
+           style="fill:#59656e;stroke:#333333;stroke-width:0.313088;paint-order:markers fill stroke"
+           d="m 104.06927,67.130196 h 3.63036 v 3.247983 h -3.63036 z" />
+        <path
+           id="rect929-3"
+           style="fill:#59656e;stroke:#333333;stroke-width:0.292392;paint-order:markers fill stroke"
+           d="m 110.41776,70.359566 h 3.20686 v 3.206856 h -3.20686 z" />
+        <path
+           id="rect929-3-6"
+           style="fill:#59656e;stroke:#333333;stroke-width:0.329466;paint-order:markers fill stroke"
+           d="m 110.11903,64.394577 h 3.79795 v 3.437959 h -3.79795 z" />
+      </g>
+    </g>
+  </g>
+</svg>
