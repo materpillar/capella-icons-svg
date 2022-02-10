@@ -88,15 +88,15 @@ Font not transformed for:
 | Grad color at ca 90% | ffecd6ff             | e3f2e0ff             |
 | Grad color right     | fffdfbff             | fffdfbff             |
 
-|                          | OE       | SA, LA, PA | CSCI     | LC, PC   | PC Behaviour | PC Node  |
-| ------------------------ | -------- | ---------- | -------- | -------- | ------------ | -------- |
-| Width                    | 100px    | 100px      | 100px    | 100px    | 100px        | 100px    |
-| Height                   | 65px     | 65px       | 65px     | 65px     | 65px         | 65px     |
-| Stroke Style             | solid    | solid      | solid    | solid    | solid        | solid    |
-| Stroke Weight            | 1.5px    | 1.5px      | 1.5px    | 1.5px    | 1.5px        | 1.5px    |
-| Stroke color             | 563b18ff | 000000ff   | 000000ff | 000000ff | 000000ff     | 000000ff |
-| Fill                     | a2b5c3ff | bdf7ffff   | a2b5c3ff | e3ebf8ff | a2b5c3ff     | fff426   |
-| Fill color small squares | e3ebf8ff | e3ebf8ff   | a2b5c3ff | e3ebf8ff | a2b5c3ff     | fff426   |
+|                          | OE       | SA, LA, PA | CSCI     | LC, PC   | PC Behaviour | PC Node  | SystemComponent |
+| ------------------------ | -------- | ---------- | -------- | -------- | ------------ | -------- | --------------- |
+| Width                    | 100px    | 100px      | 100px    | 100px    | 100px        | 100px    | 100px           |
+| Height                   | 65px     | 65px       | 65px     | 65px     | 65px         | 65px     | 65px            |
+| Stroke Style             | solid    | solid      | solid    | solid    | solid        | solid    | solid           |
+| Stroke Weight            | 1.5px    | 1.5px      | 1.5px    | 1.5px    | 1.5px        | 1.5px    | 1.5px           |
+| Stroke color             | 563b18ff | 000000ff   | 000000ff | 000000ff | 000000ff     | 000000ff | 000000ff        |
+| Fill                     | a2b5c3ff | bdf7ffff   | a2b5c3ff | e3ebf8ff | a2b5c3ff     | fff426   | e3ebf8ff        |
+| Fill color small squares | e3ebf8ff | e3ebf8ff   | a2b5c3ff | e3ebf8ff | a2b5c3ff     | fff426   | e3ebf8ff        |
 
 |        | ...Pkg |
 | ------ | ------ |
