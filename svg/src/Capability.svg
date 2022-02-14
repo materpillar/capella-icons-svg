@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="16"
+   height="16"
+   viewBox="0 0 16 16"
+   version="1.1"
+   id="svg8595"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   sodipodi:docname="Capability.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview8597"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="px"
+     showgrid="true"
+     units="px"
+     inkscape:zoom="42.931986"
+     inkscape:cx="5.7067008"
+     inkscape:cy="7.9078569"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     inkscape:lockguides="true">
+    <inkscape:grid
+       type="xygrid"
+       id="grid990" />
+  </sodipodi:namedview>
+  <defs
+     id="defs8592">
+    <radialGradient
+       inkscape:collect="always"
+       id="radialGradient8774"
+       cx="-148.8613"
+       cy="1082.8604"
+       r="20.7589"
+       gradientTransform="matrix(0.29756144,0,0,0.37401261,52.326819,639.48611)"
+       gradientUnits="userSpaceOnUse"
+       fx="-148.8613"
+       fy="1082.8604"
+       fr="0"
+       spreadMethod="pad">
+      <stop
+         offset="0"
+         style="stop-color:#FDFCFA"
+         id="stop14" />
+      <stop
+         offset="0.1952"
+         style="stop-color:#F8F3ED"
+         id="stop30" />
+      <stop
+         offset="0.5698"
+         style="stop-color:#E7D4C0"
+         id="stop32" />
+      <stop
+         offset="1"
+         style="stop-color:#D0AB84"
+         id="stop34" />
+    </radialGradient>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#radialGradient8774"
+       id="radialGradient1029"
+       cx="8"
+       cy="8"
+       fx="8"
+       fy="8"
+       r="8.0001411"
+       gradientTransform="matrix(1.0157903,0,0,0.64094803,-0.12632233,2.872415)"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       fill="url(#SVGID_1_)"
+       stroke="#563b18"
+       d="m 15.500075,8.0002257 c 0,2.4853403 -3.357801,4.4998493 -7.4997083,4.4998493 -4.1428877,0 -7.50044157,-2.015412 -7.50044157,-4.4998493 0,-2.4857015 3.35755397,-4.5003006 7.50044157,-4.5003006 4.1421543,0 7.4997083,2.0141478 7.4997083,4.5003006 z"
+       id="path37"
+       style="display:inline;fill:url(#radialGradient1029);fill-opacity:1;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:stroke fill markers" />
+   </g>
+   <g
+     inkscape:label="Layer 2"
+     inkscape:groupmode="layer"
+     id="layer2">
+      <text
+       xml:space="preserve"
+       id="text851"
+       transform="scale(1.3613102,0.73458644)"
+       x="5.9272237"
+       y="13.507637"
+       style="font-size:10.927px;stroke-width:0.910586"><tspan
+         sodipodi:role="line"
+         id="tspan849"
+         x="5.9272237"
+         y="13.507637"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.16328px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans Bold';text-align:center;text-anchor:middle;stroke-width:0.127009">C</tspan></text>
+  </g>
+</svg>
