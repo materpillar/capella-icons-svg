@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="16"
+   height="16"
+   viewBox="0 0 16 16"
+   version="1.1"
+   id="svg8595"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   sodipodi:docname="Initial.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview8597"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="px"
+     showgrid="false"
+     units="px"
+     inkscape:zoom="42.931986"
+     inkscape:cx="6.7665166"
+     inkscape:cy="7.9078568"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     inkscape:lockguides="true" />
+  <defs
+     id="defs8592" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       fill="url(#SVGID_1_)"
+       stroke="#563b18"
+       stroke-width="0.252653"
+       d="m 15.875641,8.0002446 c 0,2.6927604 -3.525942,4.8753964 -7.8752566,4.8753964 -4.3503423,0 -7.87602525,-2.183613 -7.87602525,-4.8753964 0,-2.6931525 3.52568295,-4.8758854 7.87602525,-4.8758854 4.3495726,0 7.8752566,2.1822438 7.8752566,4.8758854 z"
+       id="path37"
+       style="display:inline;fill:url(#SVGID_1_-0);fill-opacity:1;stroke-width:0.248718;stroke-miterlimit:4;stroke-dasharray:none;paint-order:normal" />
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:29.7779px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';display:inline;stroke-width:0.148891"
+       x="4.0018992"
+       y="12.145777"
+       id="text851"
+       transform="scale(1.2054359,0.82957542)"><tspan
+         sodipodi:role="line"
+         id="tspan849"
+         x="4.0018992"
+         y="12.145777"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.94815px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans Bold';stroke-width:0.148891">C</tspan></text>
+  </g>
+</svg>
